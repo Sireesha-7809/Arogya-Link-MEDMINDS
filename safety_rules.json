@@ -1,0 +1,102 @@
+{
+  "danger_terms": [
+    {
+      "label": "pregnancy bleeding",
+      "phrases": [
+        "severe bleeding",
+        "heavy bleeding",
+        "bleeding in third trimester",
+        "గర్భిణికి తీవ్రమైన రక్తస్రావం",
+        "తీవ్రమైన రక్తస్రావం",
+        "गंभीर रक्तस्राव",
+        "கடுமையான இரத்தப்போக்கு",
+        "ತೀವ್ರ ರಕ್ತಸ್ರಾವ",
+        "കഠിന രക്തസ്രാവം",
+        "গুরুতর রক্তপাত",
+        "गंभीर रक्तस्राव"
+      ]
+    },
+    {
+      "label": "breathing difficulty",
+      "phrases": [
+        "difficulty breathing",
+        "trouble breathing",
+        "not breathing",
+        "శ్వాస తీసుకోవడంలో ఇబ్బంది",
+        "శ్వాస తీసుకోలేక",
+        "साँस लेने में कठिनाई",
+        "சுவாசிப்பதில் சிரமம்",
+        "ಉಸಿರಾಟದ ತೊಂದರೆ",
+        "ശ്വാസതടസ്സം",
+        "শ্বাসকষ্ট",
+        "श्वास घेण्यास त्रास"
+      ]
+    },
+    {
+      "label": "unconsciousness",
+      "phrases": [
+        "unconscious",
+        "unresponsive",
+        "స్పృహ లేకపోవడం",
+        "बेहोश",
+        "மயக்கம்",
+        "ಪ್ರಜ್ಞೆ ತಪ್ಪುವುದು",
+        "ബോധക്ഷയം",
+        "অচেতনতা",
+        "बेशुद्धपणा"
+      ]
+    },
+    {
+      "label": "seizure/convulsion",
+      "phrases": [
+        "convulsion",
+        "seizure",
+        "fits",
+        "మూర్ఛ",
+        "दौरा",
+        "வலிப்பு",
+        "ಸೆಳೆತ",
+        "പിടുത്തം",
+        "খিঁচুনি",
+        "झटके"
+      ]
+    },
+    {
+      "label": "newborn danger sign",
+      "phrases": [
+        "newborn not feeding",
+        "newborn fever",
+        "blue lips",
+        "శిశువు పాలు తాగడం లేదు",
+        "नवजात दूध नहीं पी रहा",
+        "பிறந்த குழந்தை பால் குடிக்கவில்லை",
+        "ನವಜಾತ ಹಾಲು ಕುಡಿಯುತ್ತಿಲ್ಲ",
+        "നവജാത ശിശു പാൽ കുടിക്കുന്നില്ല",
+        "নবজাতক দুধ খাচ্ছে না",
+        "नवजात बाळ दूध पीत नाही"
+      ]
+    }
+  ],
+  "dose_terms": [
+    {
+      "label": "medication dose/prescription request",
+      "phrases": [
+        "antibiotic dose",
+        "dose of antibiotic",
+        "what dose",
+        "dosage",
+        "prescribe an antibiotic",
+        "prescription",
+        "మోతాదు ఎంత",
+        "మందుల మోతాదు",
+        "दवा की खुराक",
+        "कितनी खुराक",
+        "மருந்தளவு",
+        "ಔಷಧದ ಪ್ರಮಾಣ",
+        "മരുന്നിന്റെ അളവ്",
+        "ওষুধের মাত্রা",
+        "औषधाची मात्रा"
+      ]
+    }
+  ]
+}
